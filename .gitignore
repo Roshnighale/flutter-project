@@ -1,0 +1,31 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+coverage/
+*.log
+*.iml
+.idea/
+.vscode/
+
+# Generated platform files
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+macos/Pods/
+macos/Flutter/ephemeral/
+
+# Firebase / local secrets
+.env
+.env.*
+firebase-debug.log
+firebase-debug.*.log
+
+# Do not commit local machine-specific Firebase config unless your team explicitly chooses to.
+# If generated firebase_options.dart is kept private in your workflow, ignore it:
+# lib/firebase_options.dart
