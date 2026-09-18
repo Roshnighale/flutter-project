@@ -93,18 +93,7 @@ flutter run
 
 ## Screenshots
 
-Replace the placeholders below with actual screenshots before GitHub submission.
-
-| Screen | Screenshot |
-|---|---|
-| Login | `screenshots/login.png` |
-| Sign Up | `screenshots/signup.png` |
-| Home | `screenshots/home.png` |
-| Add Note | `screenshots/add-note.png` |
-| Edit Note | `screenshots/edit-note.png` |
-| Dark Mode | `screenshots/dark-mode.png` |
-
-You can create a `screenshots/` folder and add the images above.
+Replace the placeholders below with actual screenshots before GitHub 
 
 ## Security
 
